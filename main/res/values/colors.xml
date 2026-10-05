@@ -1,0 +1,11 @@
+<resources>
+    <color name="purple_500">#534AB7</color>
+    <color name="purple_700">#3C3489</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background">#F7F6F3</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#1A1A18</color>
+    <color name="text_secondary">#5F5E5A</color>
+    <color name="divider">#E5E3DD</color>
+    <color name="danger">#A32D2D</color>
+</resources>
